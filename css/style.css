@@ -3,3 +3,8 @@ h1{
   font-family: 'Shantell Sans', cursive;
   color: rgb(169,169,169);
  }
+td, th {
+		border:1px soild;
+  background-color: #f5f5dc;
+  text-align: center;
+  }
