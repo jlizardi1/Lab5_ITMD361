@@ -4,7 +4,7 @@ h1, td, th{
   
  }
 td, th {
-		border: 2px soild;
+		border: 2px solid;
   background-color: #f5f5dc;
   padding: 10px;
   }
@@ -20,6 +20,7 @@ h1{
 .facts{
   text-align: center;
   font-size:25px; 
+  border:3px solid;
   color: #FFFFFF;
   }
 
