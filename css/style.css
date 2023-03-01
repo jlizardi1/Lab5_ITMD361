@@ -7,7 +7,14 @@ td, th {
 		border:1px soild;
   background-color: #f5f5dc;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
   }
-body{
-  color:#00ffff;
-  }
+.planet-names{
+  color: #00ffff;
+  border: 1px solid;
+]}
+.facts{
+  background:ffd700;
+}
+  
