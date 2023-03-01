@@ -29,7 +29,8 @@ h1{
   }
 
 body{
-  background-image: images/space.jpg;
+  background-image: url(..images/space.jpg);
+  background-size: cover;
   }
 img{
   width: 300px;
